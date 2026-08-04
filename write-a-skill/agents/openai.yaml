@@ -1,0 +1,6 @@
+interface:
+  display_name: "Write a Skill"
+  short_description: "Create reusable agent skill instructions"
+  default_prompt: "Use $write-a-skill to create a reusable agent skill."
+policy:
+  allow_implicit_invocation: false

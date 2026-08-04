@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Transformer"
+  short_description: "Turn rough thoughts into structured AI prompts"
+  default_prompt: "Use $prompt-transformer to turn my rough notes into a clear, step-by-step AI-friendly prompt."
